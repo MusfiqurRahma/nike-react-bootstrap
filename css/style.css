@@ -1,0 +1,38 @@
+/* body style */
+body {
+    font-family: 'Oswald', sans-serif;
+  }
+  /* navbar style */
+.nav-bg-color{
+    background-color: #fff9f4;
+}
+.img-fluid{
+    height: 407px;
+    width: 410px;
+}
+.span-extra{
+     color: #fa804c;
+     font-weight: 700;
+}
+.card-title{
+    color: #363958;
+    font-weight: 700;
+}
+.card-text{
+    font-family: sans-serif;
+}
+.btn-bg-color{
+   background-color: #4d5efa;
+}
+/* casual shoe section */
+.full-main-bg{
+    background-color: #E5E5E5;
+}
+.card-bg{
+    background-color: #f1f1f1;
+    height: 311px;
+    width: 311px;
+}
+.doller-color{
+   color:#fa804c;
+}
